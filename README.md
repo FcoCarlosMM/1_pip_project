@@ -6,8 +6,9 @@ My project to learn pip and python environments
 
 To run tictactoe follow the next steps on terminal:
 
-'''sh
+```sh
 cd game
 python3 main.py
-'''
+```
+
 
